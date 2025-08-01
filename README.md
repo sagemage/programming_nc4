@@ -6,6 +6,16 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+Setup & Run (Web)
+1. flutter config --enable-web
+2. flutter run -d chrome
+
+Branch & Commit
+- git checkout feature/home-screen
+- git add .
+- git commit -m "feat: add Hello World! home screen"
+- git push
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
